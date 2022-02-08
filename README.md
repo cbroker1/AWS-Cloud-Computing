@@ -1,6 +1,8 @@
 # AWS-Cloud-Computing
 Semester long graduate school course surveying Amazon Web Service's main features. 
 
+Final Project - Surveying, Amazon Textract https://www.youtube.com/watch?v=Jb2iihk70jE&t=444s
+
 [Module 1: Cloud Computing Overview](https://github.com/cbroker1/text-as-data/blob/master/Assignments/TAD_Week_1_Broker_Carl.ipynb)
 
 - Define cloud computing.
