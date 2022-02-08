@@ -24,7 +24,7 @@ Final Project - Surveying Amazon Textract https://www.youtube.com/watch?v=Jb2iih
 - Correlate how Virtualization connects to Cloud Computing.
 - Demonstrate a working knowledge of Hypervisor.
 
-[Module 3: IaaS Cloud Compute](https://github.com/cbroker1/text-as-data/blob/master/Assignments/TAD_Week_3_Broker_Carl_2_of_2.ipynb)
+[Module 3: IaaS Cloud Compute](https://github.com/cbroker1/AWS-Cloud-Computing/blob/master/cbroker_ExerciseLab_3A-3F.docx)
 
 - Describe Infrastructure as Service.
 - Enumerate IaaS Providers and Compare/contrast Regions, Zones and Edge Locations for IaaS Global Infrastructure offerings.
@@ -33,7 +33,7 @@ Final Project - Surveying Amazon Textract https://www.youtube.com/watch?v=Jb2iih
 - Cite architectural capabilities of AWS EC2.
 - Demonstrate launching instances, connecting to them and managing the lifecycle of the instance using AWS EC2.
 
-[Module 4: IaaS Storage](https://github.com/cbroker1/text-as-data/blob/master/Assignments/TAD_Week_4_Broker_Carl.ipynb)
+[Module 4: IaaS Storage](https://github.com/cbroker1/AWS-Cloud-Computing/blob/master/cbroker_ExerciseLab_4A-4F.docx)
 
 - Describe storage technologies and concepts.
 - Enumerate block storage concepts and characteristics.
@@ -43,7 +43,7 @@ Final Project - Surveying Amazon Textract https://www.youtube.com/watch?v=Jb2iih
 - Explain how AWS has implemented S3 object storage service.
 - Create and use S3 service including all major features of the service.
 
-[Module 5: IaaS Network Services](https://github.com/cbroker1/text-as-data/blob/master/Assignments/TAD_Week_5_Broker_Carl.ipynb)
+[Module 5: IaaS Network Services](https://github.com/cbroker1/AWS-Cloud-Computing/blob/master/cbroker_ExerciseLab_5A-5E.docx)
 
 - Describe Network Services offered by IaaS Providers.
 - Compare/contrast network service components.
@@ -51,7 +51,7 @@ Final Project - Surveying Amazon Textract https://www.youtube.com/watch?v=Jb2iih
 - Describe scaling options provided by AWS using AutoScaling.
 - Design a highly-scalable network architecture using network components.
 
-[Module 6: IaaS Network and Security Services](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_Week_6_Broker_Carl.ipynb)
+[Module 6: IaaS Network and Security Services](https://github.com/cbroker1/AWS-Cloud-Computing/blob/master/cbroker_ExerciseLab_6A-6D.docx)
 
 - Describe DNS Services offered by IaaS Providers.
 - Demonstrate the security mechanism and options in IaaS.
@@ -61,7 +61,7 @@ Final Project - Surveying Amazon Textract https://www.youtube.com/watch?v=Jb2iih
 - Design a secure and isolated network within public cloud using AWS VPC.
 - Describe the advanced features provided by Route 53.
 
-[Module 7: PaaS Application Platform](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_Week_7_Broker_Carl.ipynb)
+[Module 7: PaaS Application Platform](https://github.com/cbroker1/AWS-Cloud-Computing/blob/master/cbroker_ExerciseLab_7A-7E.docx)
 
 - Describe Platform as service.
 - Enumerate PaaS providers and compare/contrast PaaS service offerings.
@@ -71,7 +71,7 @@ Final Project - Surveying Amazon Textract https://www.youtube.com/watch?v=Jb2iih
 - Cite architectural capabilities of AWS EB.
 - Create highly scalable PaaS environment to deploy applications.
 
-[Module 8: PaaS Relational Database](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_Week_8_Broker_Carl.ipynb)
+[Module 8: PaaS Relational Database](https://github.com/cbroker1/AWS-Cloud-Computing/blob/master/cbroker_ExerciseLab_8A-8E.docx)
 
 - Describe Relational Database concepts.
 - Describe PaaS Relational Database Service.
@@ -80,7 +80,7 @@ Final Project - Surveying Amazon Textract https://www.youtube.com/watch?v=Jb2iih
 - Cite architectural capabilities of AWS RDS.
 - Hands on experience demonstrating creation of highly scalable RDS environment with backup and slaves.
 
-[Module 9: Putting It All Together - Project](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_Week_9_Broker_Carl.ipynb)
+[Module 9: Putting It All Together - Project](https://github.com/cbroker1/AWS-Cloud-Computing/blob/master/cbroker_ExerciseLab_9.docx)
 
 - Describe how large, high-profile websites are built on AWS.
 - Map high-level requirements to AWS services we’ve used so far.
@@ -91,7 +91,7 @@ Final Project - Surveying Amazon Textract https://www.youtube.com/watch?v=Jb2iih
 - Create network architecture diagram using standard tools.
 - Explain how security, scalability and availability requirements can be met in AWS.
 
-[Module 10: PaaS Content Delivery Network](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_Week_10_Broker_Carl.ipynb)
+[Module 10: PaaS Content Delivery Network](https://github.com/cbroker1/AWS-Cloud-Computing/blob/master/cbroker_ExerciseLab_10A.docx)
 
 - Describe Content Delivery Network.
 - Describe PaaS Content Delivery Network Service.
@@ -100,7 +100,7 @@ Final Project - Surveying Amazon Textract https://www.youtube.com/watch?v=Jb2iih
 - Cite architectural capabilities of AWS CloudFront.
 - Demonstrate creating highly available, scalable CDN for Streaming media.
 
-[Module 11: PaaS Hadoop](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_Week_11_Broker_Carl.ipynb)
+[Module 11: PaaS Hadoop](https://github.com/cbroker1/AWS-Cloud-Computing/blob/master/cbroker_ExerciseLab_11A-11E.docx)
 
 - Describe Big Data Analytics concepts.
 - Describe Hadoop concepts.
@@ -110,7 +110,7 @@ Final Project - Surveying Amazon Textract https://www.youtube.com/watch?v=Jb2iih
 - Cite architectural capabilities of AWS EMR.
 - Demonstrate advanced capabilities of AWS EMR.
 
-[Module 12: Cloud Automation and DevOps](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_FINAL_PROJECT_Broker_Carl.ipynb)
+[Module 12: Cloud Automation and DevOps](https://github.com/cbroker1/AWS-Cloud-Computing/blob/master/cbroker_ExerciseLab_12_13.docx)
 
 - Describe Cloud Automation and DevOps Approaches.
 - Apply Cloud Automation using AWS Command Line Tool.
@@ -122,7 +122,7 @@ Final Project - Surveying Amazon Textract https://www.youtube.com/watch?v=Jb2iih
 - Apply Cloud Automation using AWS CloudFormation Tool.
 Demonstrate Cloud Automation using CloudFormation Tool.
 
-[Module 13: Software as a Service](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_FINAL_PROJECT_Broker_Carl.ipynb)
+[Module 13: Software as a Service](https://github.com/cbroker1/AWS-Cloud-Computing/blob/master/cbroker_ExerciseLab_12_13.docx)
 
 - Define SaaS.
 - Cite various SaaS vendors in the marketplace.
@@ -130,7 +130,7 @@ Demonstrate Cloud Automation using CloudFormation Tool.
 - Cite AWS WorkSpaces Desktop service.
 - Demonstrate AWS WorkSpaces Desktop service.
 
-[Module 14: Architecture and Cloud Security](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_FINAL_PROJECT_Broker_Carl.ipynb)
+[Module 14: Architecture and Cloud Security](https://github.com/cbroker1/AWS-Cloud-Computing/blob/master/cbroker_ExerciseLab_14A.docx)
 
 - Enumerate cloud architecture principles.
 - Explain advanced architecture techniques.
@@ -138,4 +138,4 @@ Demonstrate Cloud Automation using CloudFormation Tool.
 - Apply AWS security measures for all services covered.
 - Apply IAM best practices principles.
 
-[Module 15: Final Project](https://github.com/cbroker1/text-as-data/blob/master/notebooks/TAD_FINAL_PROJECT_Broker_Carl.ipynb)
+[Module 15: Final Project](https://www.youtube.com/watch?v=Jb2iihk70jE&t=444s)
