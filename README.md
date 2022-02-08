@@ -3,7 +3,7 @@ Semester long graduate school course surveying Amazon Web Service's main feature
 
 Final Project - Surveying Amazon Textract https://www.youtube.com/watch?v=Jb2iihk70jE&t=444s
 
-[Module 1: Cloud Computing Overview](https://github.com/cbroker1/text-as-data/blob/master/Weekly Modules/cbroker_ExerciseLab_1A.docx)
+[Module 1: Cloud Computing Overview](https://github.com/cbroker1/AWS-Cloud-Computing/blob/master/cbroker_ExerciseLab_1A.docx)
 
 - Define cloud computing.
 - Illustrate the characteristics of the cloud.
