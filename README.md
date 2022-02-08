@@ -13,7 +13,7 @@ Final Project - Surveying Amazon Textract https://www.youtube.com/watch?v=Jb2iih
 - Illustrate the drivers for the cloud.
 - Create an account on a public cloud provider.
 
-[Module 2: Cloud Data Center and Virtualization](https://github.com/cbroker1/text-as-data/blob/master/Assignments/TAD_Week_2_Broker_Carl.ipynb)
+[Module 2: Cloud Data Center and Virtualization](https://github.com/cbroker1/AWS-Cloud-Computing/blob/master/cbroker_ExerciseLab_2A-2C.docx)
 
 - Describe the features and activities of a cloud data center.
 - Define Virtualization.
